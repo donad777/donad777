@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donad</h1>
-<h3 align="center">A passionate Mobile developer from VietNam</h3>
+<h3 align="center">A passionate Mobile developer from India</h3>
 
 - 📫 How to reach me **nguyenanhdiendo@gmail.com**
 
